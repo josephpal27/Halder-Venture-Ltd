@@ -716,7 +716,7 @@
           
           <div class="tab-pane fade" id="pills-pearl" role="tabpanel" aria-labelledby="pills-werwerr-tab">
             <div class="my-image-box" style="width: 100%; display: none;">
-              <img src="{{ asset('assets/img/semi-long-grain-rice-new-2.jpg') }}" alt="supreme choice" style="width: 100%;">
+              <img src="{{ asset('assets/img/pearl-rice-mobile-section.jpg') }}" alt="supreme choice" style="width: 100%;">
             </div>
             <div class="row pt-5 justify-content-between my-product-box">
 
