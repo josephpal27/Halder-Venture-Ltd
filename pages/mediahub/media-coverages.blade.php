@@ -263,6 +263,66 @@
     <div class="container pt-4 mt-3">
       <div class="event owl-carousel owl-theme px-1">
           
+      <a href="https://peoplemanager.co.in/halder-venture-limited-appoints-kumar-shankar-datta-and-pritha-sarkar-as-independent-directors/"
+          target="_blank" style="text-decoration: none;">
+          <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
+            <div class="newsletter">
+              <div class="card-top pb-2 p-2" style="background-color: #f2f2f2;">
+                <img src="{{ asset('assets/img/People Manager (O) 02-06.png') }}" alt="image">
+              </div>
+              <p class="text-light pt-2">People Manager</p>
+            </div>
+          </div>
+      </a>
+
+      <a href="https://allthingstalent.org/kumar-shankar-datta-and-pritha-sarkar-join-halder-venture-board-as-independent-directors-bolstering-governance-and-strategy/2025/05/16/"
+          target="_blank" style="text-decoration: none;">
+          <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
+            <div class="newsletter">
+              <div class="card-top pb-2 p-2" style="background-color: #f2f2f2;">
+                <img src="{{ asset('assets/img/All Things Talent (O) 02-06.png') }}" alt="image">
+              </div>
+              <p class="text-light pt-2">All Things Talent</p>
+            </div>
+          </div>
+      </a>
+
+      <a href="https://www.foodinfotech.com/halder-venture-limited-appoints-its-independent-directors/"
+          target="_blank" style="text-decoration: none;">
+          <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
+            <div class="newsletter">
+              <div class="card-top pb-2 p-2" style="background-color: #f2f2f2;">
+                <img src="{{ asset('assets/img/Food Infotech (O) 02-06.png') }}" alt="image">
+              </div>
+              <p class="text-light pt-2">Food Infotech</p>
+            </div>
+          </div>
+      </a>
+
+      <a href="https://www.fnbnews.com/Top-News/halder-venture-appoints-datta--sarkar-as-independent-directors-82720"
+          target="_blank" style="text-decoration: none;">
+          <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
+            <div class="newsletter">
+              <div class="card-top pb-2 p-2" style="background-color: #f2f2f2;">
+                <img src="{{ asset('assets/img/FnB News (O) 2 02-06.png') }}" alt="image">
+              </div>
+              <p class="text-light pt-2">FnB News</p>
+            </div>
+          </div>
+      </a>
+
+      <a href="https://www.medianews4u.com/halder-venture-names-kumar-shankar-datta-and-pritha-sarkar-as-independent-directors/"
+          target="_blank" style="text-decoration: none;">
+          <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
+            <div class="newsletter">
+              <div class="card-top pb-2 p-2" style="background-color: #f2f2f2;">
+                <img src="{{ asset('assets/img/Medianews4u (O) 2 02-06.png') }}" alt="image">
+              </div>
+              <p class="text-light pt-2">Medianews4u</p>
+            </div>
+          </div>
+      </a>
+      
           <a href="https://theprint.in/economy/halder-venture-acquires-ks-oils-haldia-refinery-for-rs-58-crore/2572599/"
           target="_blank" style="text-decoration: none;">
           <div class="item" style="background-color: #053a4a; border-radius: 10px; overflow: hidden;">
