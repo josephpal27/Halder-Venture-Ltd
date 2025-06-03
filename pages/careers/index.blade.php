@@ -26,7 +26,7 @@
 
 <div class="careerpge text-center py-5">
 <div class="container">
-  <h3>CAREERS</h3>
+  <h1>CAREERS</h1>
   <hr style="background-color: #a9e2ca; opacity: 2; width: 8rem;margin: auto;padding-bottom: 5px;">
 
   <div class="row">

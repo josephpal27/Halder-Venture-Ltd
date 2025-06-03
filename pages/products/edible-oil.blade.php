@@ -37,7 +37,7 @@
 
   <a href="/products"><i class="pt-3 fa-solid fa-arrow-left" id="product-page-icon"></i></a>
 
-  <h3>EDIBLE OIL</h3>
+  <h1>EDIBLE OIL</h1>
   <hr style="background-color: #a9e2ca; opacity: 2; width: 10rem;margin: auto;padding-bottom: 5px;">
 
 

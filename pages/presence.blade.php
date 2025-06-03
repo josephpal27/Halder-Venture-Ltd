@@ -41,7 +41,7 @@
     
       <div class="pressence-menu tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 
-        <h3 class="gg" data-aos="zoom-in" data-aos-duration="3000">OFFICES</h3>
+        <h1 class="gg" data-aos="zoom-in" data-aos-duration="3000" style="font-size: 30px;">OFFICES</h1>
         <hr style="background-color: #a9e2ca; opacity: 2; width: 7rem;margin: auto;padding-bottom: 5px;"> 
 
         <ul class="pt-5 nav nav-pills justify-content-center mb-3" id="pills-tab" role="tablist">
@@ -209,7 +209,7 @@
 
       <div class="tab-pane fade show" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
     
-        <h3>FACTORIES</h3>
+        <h1 style="font-size: 30px;">FACTORIES</h1>
        <hr style="background-color: #a9e2ca; opacity: 2; width: 7rem;margin: auto;padding-bottom: 5px;">
 
         <div class="row justify-content-center pt-5">
@@ -284,7 +284,7 @@
         <div class="red box"> 
           
 
-          <h3>IMPORT & EXPORT</h3>
+          <h1 style="font-size: 30px;">IMPORT & EXPORT</h1>
           <hr style="background-color: #a9e2ca; opacity: 2; width: 16rem;margin: auto;padding-bottom: 5px; transform: translate(73px, 0px);" id="hr-1"> 
 
           <div class="hffff">

@@ -31,7 +31,7 @@
 
 
 <div class="prodtct-ctgy text-center  py-lg-5 py-md-0">
-<h3>OUR PRODUCTS</h3>
+<h1>OUR PRODUCTS</h1>
 <hr style="background-color: #a9e2ca; opacity: 2; width: 10rem;margin: auto;padding-bottom: 5px;">
 
 <div class="container">

@@ -34,7 +34,7 @@
 <div class="brand py-5">
 
 <div class="container">
-  <h3 class="text-center">RICE</h3>
+  <h1 class="text-center">RICE</h1>
   <hr style="background-color: #a9e2ca; opacity: 2; width: 4rem;margin: auto;padding-bottom: 3px;">
  
   <div class="row mt-2 justify-content-between">
@@ -134,7 +134,7 @@
 
   <div class="oil pt-3">
 
-  <h3 class="text-center">EDIBLE OIL</h3>
+  <h1 class="text-center">EDIBLE OIL</h1>
   <hr style="background-color: #a9e2ca; opacity: 2; width: 7rem;margin: auto;padding-bottom: 3px;">
  
   <div class="row mt-2 justify-content-center">

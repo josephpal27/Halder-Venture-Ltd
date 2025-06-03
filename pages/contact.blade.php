@@ -18,7 +18,7 @@
 <!-- leave message start -->
 <div class="leave-msg t-sff py-5 text-center position-relative">
 
-<h3>LEAVE US A MESSAGE</h3>
+<h1>LEAVE US A MESSAGE</h1>
 
 @if(session('success'))
     <div class="alert alert-success">

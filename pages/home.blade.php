@@ -55,7 +55,7 @@
 
         <div class="col-lg-6 mb-4">
           <div class="who-content" data-aos="fade-left" data-aos-duration="3000">
-            <h3>WHO WE ARE</h3>
+            <h1>WHO WE ARE</h1>
             <p class="pt-2"><b>Halder Venture Limited</b>, a leading rice and edible oil manufacturing company with a legacy dating back to 1924, continues its mission of <b>Growing Goodness</b> in communities worldwide. Started with <b>B.C. Halder Rice and Oil Mills</b>, founded by <b>Mr Brindaban Chandra Halder</b>, the company has built a century-long heritage of excellence, responsibility, and innovation. <br> <br> Driven by a vision to nurture humanity and build a well-nourished society, Halder Venture Limited is committed to making <b>nutritious food accessible to all</b>. Headquartered in <b>West Bengal, India</b>, the company has expanded its global footprint, operating in countries including <b>Singapore, Benin, Togo, Ghana, Cameroon, Ivory Coast, Russia, and Bangladesh</b>. <br> <br> With a diverse portfolio of <b>rice and edible oil products</b>, Halder Venture Limited is dedicated to promoting <b>sustainability and social responsibility</b>, encouraging healthier lifestyles while ensuring the highest industry standards.</p>
             <a href="{{ route('about') }}"><button type="submit" class="mt-4 hal-button btn btn-success">READ MORE <i
                   class="fa-solid fa-right-long"></i></button></a>

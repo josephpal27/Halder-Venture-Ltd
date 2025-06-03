@@ -34,7 +34,7 @@
 
     <div class="col-lg-7 mb-4 pt-2">
       <div class="intro-hh" data-aos="fade-right" data-aos-duration="3000">
-        <h3 class="pt-lg-5 pt-md-0">INTRODUCTION</h3>
+        <h1 class="pt-lg-5 pt-md-0">INTRODUCTION</h1>
         <p class="pt-4"><b>Halder Venture Limited</b>, a leading rice and edible oil manufacturing company with a
           legacy dating back to 1924, continues its mission of <b>Growing Goodness</b> in
           communities worldwide. Started with <b>B.C. Halder Rice and Oil Mills</b>, founded by <b>Mr
