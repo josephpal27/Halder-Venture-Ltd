@@ -520,7 +520,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-4">
                   <div class="latest-img">
-                    <img src="assets/img/sustainability-blog.png" alt="image">
+                    <img src="assets/img/sustainability-blog.webp" alt="image">
                   </div>
                 </div>
 
@@ -542,7 +542,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-4">
                   <div class="latest-img">
-                    <img src="assets/img/edible-oil-blog.png" alt="image">
+                    <img src="assets/img/edible-oil-blog.webp" alt="image">
                   </div>
                 </div>
 
@@ -565,7 +565,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-4">
                   <div class="latest-img">
-                    <img src="assets/img/edible-oil-18-02.png" alt="">
+                    <img src="assets/img/edible-oil-18-02.webp" alt="">
                   </div>
                 </div>
 
@@ -589,7 +589,7 @@
 
                 <div class="col-lg-4">
                   <div class="latest-img">
-                    <img src="assets/img/blog3-27-12.png" alt="">
+                    <img src="assets/img/blog3-27-12.webp" alt="">
                   </div>
                 </div>
 
