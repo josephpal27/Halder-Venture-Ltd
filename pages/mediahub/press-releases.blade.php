@@ -41,6 +41,17 @@
 
     <div class="press-doc" data-aos="fade-up" data-aos-duration="2000">
         
+        <a href="{{ asset('assets/Halder Venture Limited FY25 overview.pdf') }}" target="_blank" class="text-decoration-none">
+          <div class="doc-row">
+              <div class="doc-left pe-2">
+                  <p>Halder Venture Limited FY25 overview: Standalone profit soars 106%, revenue grows 19% amid strategic acquisitions</p>
+              </div>
+              <div class="doc-right">
+                  <img src="{{ asset('assets/img/pdf-file.png') }}" alt="icon">
+              </div>
+          </div>
+        </a>
+
         <a href="{{ asset('assets/Halder Venture Limited appoints Kumar Shankar Datta and Pritha Sarkar as Independent Directors.pdf') }}" target="_blank" class="text-decoration-none">
           <div class="doc-row">
               <div class="doc-left pe-2">
