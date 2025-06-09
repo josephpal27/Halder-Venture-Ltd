@@ -41,7 +41,7 @@
 
     <div class="press-doc" data-aos="fade-up" data-aos-duration="2000">
         
-        <a href="{{ asset('assets/Halder Venture Limited FY25 overview.pdf') }}" target="_blank" class="text-decoration-none">
+        <a href="{{ asset('assets/Financial press release.pdf') }}" target="_blank" class="text-decoration-none">
           <div class="doc-row">
               <div class="doc-left pe-2">
                   <p>Halder Venture Limited FY25 overview: Standalone profit soars 106%, revenue grows 19% amid strategic acquisitions</p>
