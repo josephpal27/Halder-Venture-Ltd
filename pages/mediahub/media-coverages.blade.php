@@ -886,6 +886,51 @@
   <div class="container pt-4 mt-3">
     <div class="industry owl-carousel owl-theme px-1">
 
+      <a href="https://up18news.com/halder-venture-limited-fy25-overview-standalone-profit-soars-106-revenue-grows-19-amid-strategic-acquisitions/" target="_blank" style="text-decoration: none;">
+        <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
+          <div class="newsletter">
+            <img src="{{ asset('assets/img/Up 18 News 17-06.png') }}" alt="image">
+            <p class="text-light pb-3">Up 18 News</p>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://www.thehansindia.com/business/halder-venture-limited-fy25-overview-standalone-profit-soars-106-revenue-grows-19-amid-strategic-acquisitions-979122" target="_blank" style="text-decoration: none;">
+        <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
+          <div class="newsletter">
+            <img src="{{ asset('assets/img/The Hans India 17-06.png') }}" alt="image">
+            <p class="text-light pb-3">The Hans India</p>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://www.uniindia.com/hvl-targeting-emerging-asian-and-african-export-markets/east/news/3486156.html" target="_blank" style="text-decoration: none;">
+        <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
+          <div class="newsletter">
+            <img src="{{ asset('assets/img/UNI 17-06.png') }}" alt="image">
+            <p class="text-light pb-3">UNI</p>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://www.adgully.com/post/2483/halder-venture-fy25-profit-doubles-revenue-up-19-on-back-of-strategic-acquisitions" target="_blank" style="text-decoration: none;">
+        <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
+          <div class="newsletter">
+            <img src="{{ asset('assets/img/Adgully 17-06.png') }}" alt="image">
+            <p class="text-light pb-3">Adgully</p>
+          </div>
+        </div>
+      </a>
+
+      <a href="https://mediabrief.com/halder-venture-fy25-results-profit-growth/" target="_blank" style="text-decoration: none;">
+        <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
+          <div class="newsletter">
+            <img src="{{ asset('assets/img/Mediabrief 17-06.png') }}" alt="image">
+            <p class="text-light pb-3">Mediabrief</p>
+          </div>
+        </div>
+      </a>
+
       <a href="https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/relief-for-households-as-edible-oil-prices-set-to-dip-after-import-duty-cut/121585017" target="_blank" style="text-decoration: none;">
         <div class="item" style="background-color: #053a4a; border-radius: 10px; padding: 2px 0 0 3px;">
           <div class="newsletter">
