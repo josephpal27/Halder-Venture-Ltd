@@ -10,6 +10,7 @@
   <meta name="description" content="@yield('description', 'As a part of the renowned Halder Group, Halder Venture Limited is an emerging leader in Indian rice export, offering a diverse range of quality rice products, edible oils and related agro products.')">
   <meta name="keywords" content="@yield('keywords', 'Rice exporter in India, oil producers in india, oil factory in india, parboiled rice export, halder venture limited, Halder venture products, edible oil manufacturers in west bengal, oil manufacturing company in india, Indian rice industry, Agro Products')">
   <meta name="google-site-verification" content="@yield('google-site-verification', '9_VJAkv0rxWNnn5-dG9LbSz_LswrarK-uqKA02rjlLg')">
+  <link rel="canonical" href="@yield('canonical', url()->current())">
   @include('layouts.partials.styles')
 </head>
 
