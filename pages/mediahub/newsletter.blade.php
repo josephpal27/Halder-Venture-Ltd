@@ -63,6 +63,12 @@
                 <img src="{{ asset('assets/img/newsletter-box-4.jpg') }}" alt="Image">
             </a>
         </div>
+        <!-- Box 5 -->
+        <div class="content-box" data-aos="fade" data-aos-duration="2000">
+            <a href="{{ asset('assets/newsletter-5.pdf') }}" target="_blank">
+                <img src="{{ asset('assets/img/newsletter-box-5.jpg') }}" alt="Image">
+            </a>
+        </div>
     </div>
   </section>
   <!-- Content End -->
