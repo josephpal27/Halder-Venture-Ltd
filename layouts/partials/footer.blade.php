@@ -13,7 +13,7 @@
         <div class="col-lg-3 mb-4">
 
           <div class="follow mt-5">
-            <a href="contact.html">
+            <a href="{{ url('/contact') }}">
               <h5>CONTACT</h5>
             </a>
             <hr style="background-color: #1f476e; opacity: 2; width: 50px;">
@@ -85,7 +85,7 @@
 
         <div class="col-lg-2 mb-4">
           <div class="follow mt-5">
-            <a href="product.html">
+            <a href="{{ url('/products') }}">
               <h5>PRODUCTS</h5>
             </a>
             <hr style="background-color: #1f476e; opacity: 2; width: 50px;">
