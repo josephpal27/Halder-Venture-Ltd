@@ -44,7 +44,7 @@
     <div class="col-lg-7 pt-3">
 
       <div class="policy-content">
-        <h3>COMPLIANCE OFFICER & COMPANY SECRETARY</h3>
+        <h1>COMPLIANCE OFFICER & COMPANY SECRETARY</h1>
 
         <h5>Ms. Ayanti Sen</h5>
 

@@ -30,7 +30,7 @@
 
 <div class="annuals py-5">
 <div class="container">
-<h3 class="text-center text-uppercase">Familiarization Programme of Independent Directors</h3>
+<h1 class="text-center text-uppercase">Familiarization Programme of Independent Directors</h1>
 <div class="dfcwervr d-flex justify-content-between align-items-center overflow-hidden mt-5">
   <div class="dihehr p-2">
     <h4>SELECT FINANCIAL YEAR</h4>

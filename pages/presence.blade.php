@@ -209,7 +209,7 @@
 
       <div class="tab-pane fade show" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
     
-        <h1 style="font-size: 30px;">FACTORIES</h1>
+        <h2 style="font-size: 30px;">FACTORIES</h2>
        <hr style="background-color: #a9e2ca; opacity: 2; width: 7rem;margin: auto;padding-bottom: 5px;">
 
         <div class="row justify-content-center pt-5">
@@ -284,7 +284,7 @@
         <div class="red box"> 
           
 
-          <h1 style="font-size: 30px;">IMPORT & EXPORT</h1>
+          <h3 style="font-size: 30px;">IMPORT & EXPORT</h3>
           <hr style="background-color: #a9e2ca; opacity: 2; width: 16rem;margin: auto;padding-bottom: 5px; transform: translate(73px, 0px);" id="hr-1"> 
 
           <div class="hffff">

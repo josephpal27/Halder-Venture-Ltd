@@ -35,7 +35,7 @@
 
 <div class="report-table py-5">
 
-  <h3 class="text-center">MERGER DOCUMENTS</h3>
+  <h1 class="text-center">MERGER DOCUMENTS</h1>
 
 
   <section class="menu-ban py-5">

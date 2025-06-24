@@ -28,7 +28,7 @@
 
 
 <div class="board-manage mt-4 pt-4" id="board-manage">
-    <h3 class="text-uppercase text-center">Constitution of Committees of the Board of Directors</h3>
+    <h1 class="text-uppercase text-center">Constitution of Committees of the Board of Directors</h1>
     <hr style="background-color: #a9e2ca; opacity: 2; width: 28rem; margin: auto;padding-bottom: 5px;" id="undn">
 
     <div class="container mt-5 pb-5">

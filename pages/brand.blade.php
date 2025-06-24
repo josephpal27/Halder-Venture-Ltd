@@ -134,7 +134,7 @@
 
   <div class="oil pt-3">
 
-  <h1 class="text-center">EDIBLE OIL</h1>
+  <h2 class="text-center">EDIBLE OIL</h2>
   <hr style="background-color: #a9e2ca; opacity: 2; width: 7rem;margin: auto;padding-bottom: 3px;">
  
   <div class="row mt-2 justify-content-center">

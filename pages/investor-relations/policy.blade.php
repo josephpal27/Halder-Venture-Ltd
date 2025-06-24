@@ -41,7 +41,7 @@
 
     <div class="col-lg-6 pt-5">
       <div class="policy-content">
-        <h3>POLICY TO DETERMINE MATERIAL SUBSIDIARIES</h3>
+        <h1>POLICY TO DETERMINE MATERIAL SUBSIDIARIES</h1>
 
         <h6>1. INTRODUCTION</h6>
         <p>The Board of Directors (the "Board") of HALDER VENTURE LIMITED (the "Company") has adopted the following

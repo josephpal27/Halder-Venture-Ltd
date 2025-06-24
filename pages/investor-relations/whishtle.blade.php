@@ -43,7 +43,7 @@
 
     <div class="col-lg-6 mb-2">
       <div class="policy-content">
-        <h3>THE PURPOSE OF THIS POLICY</h3>
+        <h1>THE PURPOSE OF THIS POLICY</h1>
 
         <p>Halder Venture Limited is committed to complying with the laws that apply to them, the Code of Conduct of
           the Company and particularly to assuring that business is conducted with integrity and that the Company’s
