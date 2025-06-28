@@ -106,6 +106,12 @@
                       
                       <a href="{{ asset('uploads/Terms and Conditions for appointment of Independent Director (1).pdf') }}" target="_blank"><p>Terms and Conditions for appointment of Independent Director</p></a>
 
+                      <a href="{{ asset('uploads/Code-of-Conduct-for-Board-and-SMP.pdf') }}" target="_blank"><p>Code of conduct for Board and SMP</p></a>
+
+                      <a href="{{ asset('uploads/Related-Party-Transaction-Policy.pdf') }}" target="_blank"><p>Related party Transaction policy</p></a>
+
+                      <a href="{{ asset('uploads/HVL - MOA and AOA.pdf') }}" target="_blank"><p>MOA and AOA</p></a>
+
                     </div>
 
                   </div>
