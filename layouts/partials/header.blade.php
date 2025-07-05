@@ -90,7 +90,7 @@
 
                       <a href="/directors"><p class="pt-4">Board of Directors</p></a>
 
-                      <a href="{{ asset('uploads/credit-rating/Halder Venture Limited Credit rating details 2024.pdf') }}" target="_blank"><p>Credit Rating Details</p></a>
+                      <a href="{{ asset('uploads/credit-rating/Halder Venture Limited_25Apr2025.pdf') }}" target="_blank"><p>Credit Rating Details</p></a>
 
                      <a href="/policy-determine"><p>Policy to Determine Material Subsidiaries</p></a> 
 
